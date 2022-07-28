@@ -1,8 +1,8 @@
 ---
 name: デフォルトのテンプレート
 about: デフォルトで使用するissueのテンプレート
-title: ''
-labels: ''
+title: デフォルトのタイトル
+labels: bug
 assignees: Hannosuke
 
 ---
